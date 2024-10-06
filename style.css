@@ -1,9 +1,11 @@
 body {
-    padding: 0;
     margin: 0;
-    display: flex;
-    overflow: scroll;
     background: #222;
+}
+
+div {
+    display: flex;
+    overflow: scroll hidden;
 }
 
 img {
